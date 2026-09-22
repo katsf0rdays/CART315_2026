@@ -7,10 +7,26 @@ public class Ball : MonoBehaviour
     private Rigidbody2D _rigidBody;
 
     public float speed = 100.0f;
+    public Camera mainCamera;
+    public Color collisionColor;
 
     private void Awake()
     {
         _rigidBody = GetComponent<Rigidbody2D>();
+    }
+    void Start()
+    {
+        mainCamera = Camera.main;
+
+        if (mainCamera != null)
+            mainCamera.clearFlags = CameraClearFlags.SolidColor;
+
+        collisionColor = Random.ColorHSV();
+    }
+
+    private void Update()
+    {
+        collisionColor = Random.ColorHSV();
     }
 
     public void ResetBall()
@@ -29,4 +45,22 @@ public class Ball : MonoBehaviour
 
         _rigidBody.AddForce(direction * speed);
     }
+
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Paddle"))
+            mainCamera.backgroundColor = collisionColor;
+        else if (collision.gameObject.CompareTag("Paddle"))
+            mainCamera.backgroundColor = collisionColor;
+
+    }
 }
+
+
+
+
+
+
+
+
