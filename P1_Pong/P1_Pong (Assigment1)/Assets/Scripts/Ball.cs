@@ -51,9 +51,6 @@ public class Ball : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Paddle"))
             mainCamera.backgroundColor = collisionColor;
-        else if (collision.gameObject.CompareTag("Paddle"))
-            mainCamera.backgroundColor = collisionColor;
-
     }
 }
 
