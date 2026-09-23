@@ -50,7 +50,7 @@ MonoBehaviour:
   speed: 5
   mainCamera: {fileID: 0}
   collisionColor: {r: 0, g: 0, b: 0, a: 0}
-  ballPrefab: {fileID: 0}
+  ballPrefab: {fileID: 2359955599633345717}
 --- !u!212 &7541251220192964049
 SpriteRenderer:
   serializedVersion: 2
