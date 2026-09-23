@@ -1,5 +1,4 @@
 using System;
-using Unity.VisualScripting;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -14,6 +13,7 @@ public class Ball : MonoBehaviour
     [Header("MultiBall Settings")]
     public GameObject ballPrefab;
 
+    public int maxBallCount = 100;
     private void Awake()
     {
         _rigidBody = GetComponent<Rigidbody2D>();
@@ -59,7 +59,7 @@ public class Ball : MonoBehaviour
 
         _rigidBody.linearVelocity = direction * speed;
 
-        GameObject newBallObject = Instantiate(ballPrefab, Vector3.zero, Quaternion.identity);
+        /*GameObject newBallObject = Instantiate(ballPrefab, Vector3.zero, Quaternion.identity);
 
         Ball newBallScript = newBallObject.GetComponent<Ball>();
 
@@ -70,11 +70,30 @@ public class Ball : MonoBehaviour
     
         else
         {
-            Debug.LogWarning("Please drag your Ball Prefab into the 'Ball Prefab' slot in the Inspector!");
-        }
-
+            Debug.LogWarning("drag your Ball Prefab into the 'Ball Prefab' slot in the Inspector");
+        }*/
     }
 
+    private void SpawnExtraBall()
+    {
+     
+        int currentBallCount = FindObjectsByType<Ball>(FindObjectsSortMode.None).Length;
+
+        GameObject newBallObject = Instantiate(ballPrefab, Vector3.zero, Quaternion.identity);
+
+        Ball newBallScript = newBallObject.GetComponent<Ball>();
+
+
+        if (currentBallCount < maxBallCount)
+        {
+
+            if (newBallScript != null)
+            {
+
+                newBallScript.AddStartingForce();
+            }
+        }
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -92,10 +111,20 @@ public class Ball : MonoBehaviour
             if (other.CompareTag("CourtLeft"))
             {
                 gameManager.CourtTriggered(0);
+                for (int i = 0; i < 2; i++)
+                {
+                    SpawnExtraBall();
+                }
+               
             }
             else if (other.CompareTag("CourtRight"))
             {
                 gameManager.CourtTriggered(1);
+                for (int i = 0; i < 2; i++)
+                {
+                    SpawnExtraBall();
+                }
+          
             }
         }
     }
