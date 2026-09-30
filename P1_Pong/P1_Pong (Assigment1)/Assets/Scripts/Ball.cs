@@ -98,9 +98,22 @@ public class Ball : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Paddle"))
-            mainCamera.backgroundColor = collisionColor;
-    }
+        {
+            collisionColor = Random.ColorHSV();
 
+            GameObject backgroundObject = GameObject.Find("Background");
+            if (backgroundObject != null)
+            {
+                if (backgroundObject.TryGetComponent<SpriteRenderer>(out SpriteRenderer bgRenderer))
+                {
+                    bgRenderer.color = collisionColor;
+                }
+
+                //if (collision.gameObject.CompareTag("Paddle"))
+                //mainCamera.backgroundColor = collisionColor;
+            }
+        }
+    }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
