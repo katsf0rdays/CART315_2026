@@ -23,7 +23,16 @@ Goals:
 2. Memory overload due to an infinite loop of balls spawning after each round, which caused my unity to freeze. -> Had to cap the amount of balls spawned by 100. 
 
 
-==2026/09/23==
+==2026/09/29==
+
+- Changed aspect ratio 
+- Fixed which object was changing color to that of the background of the court
+
+
+
+-------------------------------------------------------------------
+
+
 
 Reflection for this assignment
 
