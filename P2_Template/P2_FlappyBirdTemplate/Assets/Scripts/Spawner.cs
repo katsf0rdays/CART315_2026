@@ -1,13 +1,17 @@
 ﻿using UnityEngine;
+using System.Collections;
 
 public class Spawner : MonoBehaviour
 {
     public GameObject prefab;
-    public float spawnRate = 1.5f;
-    private float screenLeft;
+    //public float spawnRate = 1.5f;
+    //private float screenLeft;
+    public float minSpawnTime = 1f;
+    public float maxSpawnTime = 2f;
     private float screenRight;
     private float screenBottom;
     private float screenTop;
+    private Coroutine spawnCoroutine; 
     //public float spawnRate = 1f;
     //public float minHeight = -1f;
     //public float maxHeight = 2f;
@@ -16,31 +20,44 @@ public class Spawner : MonoBehaviour
     private void Start()
     {
         Camera cam = Camera.main;
-        screenLeft = cam.ScreenToWorldPoint(new Vector3(0, 0, 0)).x - 2f;
+        //screenLeft = cam.ScreenToWorldPoint(new Vector3(0, 0, 0)).x - 2f;
         screenRight = cam.ScreenToWorldPoint(new Vector3(Screen.width, 0, 0)).x + 2f;
         screenBottom = cam.ScreenToWorldPoint(new Vector3(0, 0, 0)).y;
         screenTop = cam.ScreenToWorldPoint(new Vector3(0, Screen.height, 0)).y;
 
-        InvokeRepeating(nameof(Spawn), 0f, spawnRate);
+        //InvokeRepeating(nameof(SpawnRoutine), 0f, spawnRate);
 
     }
     private void OnEnable()
     {
-        InvokeRepeating(nameof(Spawn), spawnRate, spawnRate);
+        //InvokeRepeating(nameof(SpawnRoutine), spawnRate, spawnRate);
+        spawnCoroutine = StartCoroutine(SpawnRoutine());
     }
 
     private void OnDisable()
     {
-        CancelInvoke(nameof(Spawn));
+        //CancelInvoke(nameof(SpawnRoutine));
+        if (spawnCoroutine != null)
+        {
+            StopCoroutine(spawnCoroutine);
+        }
     }
 
-    private void Spawn()
+    private IEnumerator SpawnRoutine()
     {
-        float randomX = Random.Range(screenLeft, screenRight);
-        float randomY = Random.Range(screenBottom, screenTop);
+        yield return new WaitForSeconds(0.5f);
 
-        Vector3 spawnPosition = new Vector3(randomX, randomY, 0f);
-        Instantiate(prefab, spawnPosition, Quaternion.identity);
+        while (true)
+        {
+            float waitTime = Random.Range(minSpawnTime, maxSpawnTime);
+            yield return new WaitForSeconds(waitTime);
+
+            float randomX = Random.Range(screenRight, screenRight + 5f);
+            float randomY = Random.Range(screenBottom, screenTop);
+
+            Vector3 spawnPosition = new Vector3(randomX, randomY, 0f);
+            Instantiate(prefab, spawnPosition, Quaternion.identity);
+        }
         //GameObject cloud = Instantiate(prefab, transform.position, Quaternion.identity);
         //Pipes pipes = Instantiate(prefab, transform.position, Quaternion.identity);
         //pipes.transform.position += Vector3.up * Random.Range(minHeight, maxHeight);

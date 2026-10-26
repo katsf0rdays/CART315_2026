@@ -18,7 +18,7 @@ public class Player : MonoBehaviour
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
-        spriteIndex = 2;
+        
     }
 
     private void Start()

@@ -54,13 +54,13 @@ public class GameManager : MonoBehaviour
 
         if (spawner != null)
         {
-            spawner.enabled = true; 
+            spawner.enabled = true;
         }
 
-        Pipes[] pipes = FindObjectsByType<Pipes>(FindObjectsSortMode.None);
+        Pipes[] clouds = FindObjectsByType<Pipes>(FindObjectsSortMode.None);
 
-        for (int i = 0; i < pipes.Length; i++) {
-            Destroy(pipes[i].gameObject);
+        for (int i = 0; i < clouds.Length; i++) {
+            Destroy(clouds[i].gameObject);
         }
     }
 
