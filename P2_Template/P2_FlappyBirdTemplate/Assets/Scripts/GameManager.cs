@@ -52,6 +52,11 @@ public class GameManager : MonoBehaviour
         Time.timeScale = 1f;
         player.enabled = true;
 
+        if (spawner != null)
+        {
+            spawner.enabled = true; 
+        }
+
         Pipes[] pipes = FindObjectsByType<Pipes>(FindObjectsSortMode.None);
 
         for (int i = 0; i < pipes.Length; i++) {
