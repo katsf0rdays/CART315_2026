@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using System.Collections;
 
 public class Player : MonoBehaviour
 {
@@ -10,6 +11,9 @@ public class Player : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private Vector3 direction;
     private int spriteIndex;
+    [Header("Animation Speed")]
+    public float animationSpeed = 0.15f;
+    public Coroutine flapAnimationCoroutine; 
 
     private void Awake()
     {
@@ -18,7 +22,8 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
-        InvokeRepeating(nameof(AnimateSprite), 0.15f, 0.15f);
+        // InvokeRepeating(nameof(AnimateSprite), 0.15f, 0.15f);
+        spriteIndex = 2; 
     }
 
     private void OnEnable()
@@ -33,6 +38,16 @@ public class Player : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0)) {
             direction = Vector3.up * strength;
+
+            //CancelInvoke(nameof(AnimateSprite));
+
+            //InvokeRepeating(nameof(AnimateSprite), 0f, animationSpeed);
+            if (flapAnimationCoroutine != null)
+            {
+                StopCoroutine(flapAnimationCoroutine);
+            }
+           
+            flapAnimationCoroutine = StartCoroutine(PlayFlapAnimation());
         }
 
         // Apply gravity and update the position
@@ -55,6 +70,15 @@ public class Player : MonoBehaviour
 
         if (spriteIndex < sprites.Length && spriteIndex >= 0) {
             spriteRenderer.sprite = sprites[spriteIndex];
+        }
+    }
+
+    private IEnumerator PlayFlapAnimation()
+    {
+        for (int i = 0; i < sprites.Length; i++)
+        {
+            spriteRenderer.sprite = sprites[i];
+            yield return new WaitForSeconds(animationSpeed);
         }
     }
 

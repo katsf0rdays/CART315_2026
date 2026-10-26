@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.UI;
+//using UnityEngine.UI;
 
 [DefaultExecutionOrder(-1)]
 public class GameManager : MonoBehaviour
@@ -8,11 +8,11 @@ public class GameManager : MonoBehaviour
 
     [SerializeField] private Player player;
     [SerializeField] private Spawner spawner;
-    [SerializeField] private Text scoreText;
+    //[SerializeField] private Text scoreText;
     [SerializeField] private GameObject playButton;
     [SerializeField] private GameObject gameOver;
 
-    public int score { get; private set; } = 0;
+    //public int score { get; private set; } = 0;
 
     private void Awake()
     {
@@ -43,8 +43,8 @@ public class GameManager : MonoBehaviour
 
     public void Play()
     {
-        score = 0;
-        scoreText.text = score.ToString();
+        //score = 0;
+        //scoreText.text = score.ToString();
 
         playButton.SetActive(false);
         gameOver.SetActive(false);
@@ -67,10 +67,10 @@ public class GameManager : MonoBehaviour
         Pause();
     }
 
-    public void IncreaseScore()
+     public void IncreaseScore()
     {
-        score++;
-        scoreText.text = score.ToString();
+        //score++;
+        //scoreText.text = score.ToString();
     }
 
 }
