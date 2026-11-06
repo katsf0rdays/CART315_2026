@@ -1,0 +1,24 @@
+﻿Caterina Martin
+CART 315 AA 
+Vadim Nickel
+05/11/2026
+
+
+
+
+Reading #3: Lim et al: The Anatomy Of Prototypes
+
+
+The authors of this paper touch upon many different topics that relate to the so-called “anatomy” of design prototypes. Among the few being the fidelity of a prototype, seeing a prototype is a filter, and exploring different types of prototypes in the electronic design world. 
+
+
+The fidelity of a prototype relates to how similar it remains to the finished product. In a longer scaled project, it is important to show how one goes from one stage of design to the next, or else the work will be questioned for its credibility. 
+Personally, in my own work, I tend to come up with better ideas after having finished a prototype, which leads to scrapping everything and restarting. So a lot of the time I see prototypes as past projects that I have considered finished or sometimes unfinished, that I                                now want to add on to them. 
+As mentioned in the text, high fidelity prototypes lie in the realm of professionalism in big corporations where it is essential. 
+
+
+Seeing prototypes as filters in my mind, refers to how it explores a certain aspect of a potential direction a project can take. In the text, it is referred to as an “incomplete portrayal of a design idea”. This leaves room for trial and error, experimentation, but in this case, honing in on a specific element on the design to test, i.e. filtering the other elements out and having a goal to work on a precise section. 
+Which in turn, leads to a bunch of potential prototypes that explore all of the different elements and possibilities of a design. Each prototype equals a filter in the design until the right one is chosen for the final product. 
+
+
+The text then gives examples of different prototypes, among them being a hand-held camera, a flip phone, and the fully functional version of the latter. It showcases how the different prototypes are each for certain purposes, whether it be to test its urban functionality, size, or comfortability and puts into perspective their purpose in terms of design in the professional world.
