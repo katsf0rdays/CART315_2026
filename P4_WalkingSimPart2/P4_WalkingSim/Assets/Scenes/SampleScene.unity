@@ -119,6 +119,313 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &52585873
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 50.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.41126
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -34.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &72425673
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -29.74881
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.3812603
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.07135
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.946197
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000020679792
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.3235913
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0000000070723125
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -37.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &80226612 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1364346389}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &88453295 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1970457550}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &110235563
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -29.815277
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.41126
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -20.28836
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &145702150 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 271755597}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &160649164
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 87.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -110.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
 --- !u!1 &208682600 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5062433268410596695, guid: d9af8515441e4db4288800cc332307af, type: 3}
@@ -146,6 +453,422 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8509698647748218289, guid: d9af8515441e4db4288800cc332307af, type: 3}
+--- !u!1001 &246687882
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 275.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -218.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &246687883 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 246687882}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &266797302 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1051779223}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &271755597
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -86.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 126.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &301685834
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 402620313}
+    m_Modifications:
+    - target: {fileID: 1518448672751224, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3846.2332
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 9149.231
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 897.3317
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -41.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -16.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7842433
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000017140184
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.6204534
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000013560439
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 76.698
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+--- !u!4 &305484494 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 952054855}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &347778843
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -130.49472
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 158.64316
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8532034
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000018647352
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.5215784
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.000000011399458
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -62.876
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &360197377 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1629410395}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &366726409
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -87.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1 &402620312
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 402620313}
+  m_Layer: 0
+  m_Name: Fish hook2 Large boi
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &402620313
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 402620312}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 501.80673, y: 10.49581, z: 568.76135}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 997797345}
+  - {fileID: 1356997301}
+  - {fileID: 449653676}
+  - {fileID: 754725324}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -273,6 +996,489 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_RenderingLayers: 1
   m_ShadowRenderingLayers: 1
+--- !u!4 &449653676 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+  m_PrefabInstance: {fileID: 864071927}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &450041123
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 78.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 76.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &450041124 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 450041123}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &458092320 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 760096733}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &525511583 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 766985826}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &574577895
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 179.91794
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -114.808105
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99967724
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.00000002184864
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.025404816
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -5.5523997e-10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -2.911
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &616247478
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.422607
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.41126
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -34.133972
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9576404
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000020929896
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.2879667
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0000000062937118
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -33.473
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &619437742
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -88.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 207.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &619437743 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 619437742}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &665134028 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 2055656262}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &671473706 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 347778843}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &683471328 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1465372014}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &694382004
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.684723
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.38126
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 9.611633
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &715220413 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1890621445}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &730533295
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -42.901215
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 106.184906
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9238435
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000020191242
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.38277042
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.000000008365714
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -45.011
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
 --- !u!1 &735558307 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1656500101664370645, guid: 92efd63b18b726040a8e16e8643afde0, type: 3}
@@ -402,6 +1608,231 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7163301037945736262, guid: d9af8515441e4db4288800cc332307af, type: 3}
+--- !u!4 &754725324 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+  m_PrefabInstance: {fileID: 1780102232}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &758349910 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 110235563}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &760096733
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 80.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -202.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &766985826
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -153
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 65.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &802993977
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 402620313}
+    m_Modifications:
+    - target: {fileID: 1518448672751224, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp_2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3846.2332
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 9149.231
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 897.3317
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -17.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -37
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -83.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7842433
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000017140184
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.6204534
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000013560439
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 76.698
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -451,6 +1882,304 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &864071927
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 402620313}
+    m_Modifications:
+    - target: {fileID: 1518448672751224, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp_2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3846.2332
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 9149.231
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 897.3317
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -37.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -19.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 30.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7842433
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000017140184
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.6204534
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000013560439
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 76.698
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+--- !u!1001 &875486208
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 86.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &890019467
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -195.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 98.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &890019468 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 890019467}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &952054855
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -56.01526
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.38126
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24.011627
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &968814744 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 72425673}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &975996459
 GameObject:
   m_ObjectHideFlags: 0
@@ -540,11 +2269,177 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2, y: 1, z: 2}
+  m_LocalScale: {x: 1.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &997797345 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+  m_PrefabInstance: {fileID: 301685834}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1029572300 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 875486208}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1051779223
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 205.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -182.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &1052777627
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 86.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -257.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &1052777628 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1052777627}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1062710820 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1722833858}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1097293686
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -567,43 +2462,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fb05e9f099f63484a8234212591be53d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 697.2
+      value: 530
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fb05e9f099f63484a8234212591be53d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.6
+      value: 2.6
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fb05e9f099f63484a8234212591be53d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 589.3
+      value: 449.9
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fb05e9f099f63484a8234212591be53d, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.60488164
+      value: 0.6034511
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fb05e9f099f63484a8234212591be53d, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.793796
+      value: -0.69593483
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fb05e9f099f63484a8234212591be53d, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.04765542
+      value: -0.012867924
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fb05e9f099f63484a8234212591be53d, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.041653916
+      value: -0.38904485
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fb05e9f099f63484a8234212591be53d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -106.994
+      value: -121.795
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fb05e9f099f63484a8234212591be53d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 25.057007
+      value: -93.375
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: fb05e9f099f63484a8234212591be53d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -25.548004
+      value: 59
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: fb05e9f099f63484a8234212591be53d, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -622,6 +2517,232 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb05e9f099f63484a8234212591be53d, type: 3}
+--- !u!1001 &1172761375
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -205.44421
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 56.11075
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8902836
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000019457769
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.4554067
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.00000000995323
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -54.182
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &1172761376 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1172761375}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1227657548
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1227657549}
+  m_Layer: 0
+  m_Name: FishHook1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1227657549
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1227657548}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 364.11526, y: 1.41126, z: 434.98837}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 968814744}
+  - {fileID: 2030336942}
+  - {fileID: 1575149753}
+  - {fileID: 715220413}
+  - {fileID: 671473706}
+  - {fileID: 525511583}
+  - {fileID: 2080117757}
+  - {fileID: 1172761376}
+  - {fileID: 890019468}
+  - {fileID: 1804834021}
+  - {fileID: 1062710820}
+  - {fileID: 450041124}
+  - {fileID: 1052777628}
+  - {fileID: 1951435101}
+  - {fileID: 246687883}
+  - {fileID: 1270739290}
+  - {fileID: 266797302}
+  - {fileID: 458092320}
+  - {fileID: 360197377}
+  - {fileID: 1354504086}
+  - {fileID: 1458064066}
+  - {fileID: 665134028}
+  - {fileID: 80226612}
+  - {fileID: 1971217805}
+  - {fileID: 1484077376}
+  - {fileID: 2091642022}
+  - {fileID: 145702150}
+  - {fileID: 1540497677}
+  - {fileID: 619437743}
+  - {fileID: 683471328}
+  - {fileID: 1704575973}
+  - {fileID: 1410983972}
+  - {fileID: 88453295}
+  - {fileID: 1029572300}
+  - {fileID: 758349910}
+  - {fileID: 1713825146}
+  - {fileID: 305484494}
+  - {fileID: 1804561990}
+  - {fileID: 1327534043}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1270739289
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 27.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -225.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &1270739290 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1270739289}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1272580287
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -632,15 +2753,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1372339210156492926, guid: 92efd63b18b726040a8e16e8643afde0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 397.7
+      value: 348.7
       objectReference: {fileID: 0}
     - target: {fileID: 1372339210156492926, guid: 92efd63b18b726040a8e16e8643afde0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 2.7
       objectReference: {fileID: 0}
     - target: {fileID: 1372339210156492926, guid: 92efd63b18b726040a8e16e8643afde0, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 400.3
+      value: 440.4
       objectReference: {fileID: 0}
     - target: {fileID: 1372339210156492926, guid: 92efd63b18b726040a8e16e8643afde0, type: 3}
       propertyPath: m_LocalRotation.w
@@ -682,6 +2803,646 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 735558317}
   m_SourcePrefab: {fileID: 100100000, guid: 92efd63b18b726040a8e16e8643afde0, type: 3}
+--- !u!4 &1327534043 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 616247478}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1354504086 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 574577895}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1356997301 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+  m_PrefabInstance: {fileID: 802993977}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1364346389
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 75.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.38126
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &1410983972 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 52585873}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1412424988
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18.94522
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 134.57016
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9487965
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000020736607
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.315888
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.000000006903951
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -36.829
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &1458064066 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 160649164}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1465372014
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 32.191254
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 42.9823
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9277704
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000020277065
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.3731517
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.00000000815549
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -43.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &1484077376 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 730533295}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1540497676
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -168.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 192.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &1540497677 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1540497676}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1575149753 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1581205695}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1581205695
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -134.19188
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 108.68887
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9188355
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000020081789
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.39464074
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.000000008625148
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -46.487
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &1629410395
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 134.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -175.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &1704575973 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 366726409}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1713825146 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 2068954871}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1722833858
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 168.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -233.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &1780102232
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 402620313}
+    m_Modifications:
+    - target: {fileID: 1518448672751224, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp_2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3846.2332
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 9149.231
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 897.3317
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -28.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -29.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -36.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7842433
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000017140184
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.6204534
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000013560439
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 76.698
+      objectReference: {fileID: 0}
+    - target: {fileID: 4309445103010202, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9220d3a6a55faf648b36a6da6e1974fd, type: 3}
+--- !u!4 &1804561990 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 694382004}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1804834021 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1906046787}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1860745710 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5780854886523704779, guid: d9af8515441e4db4288800cc332307af, type: 3}
@@ -709,6 +3470,381 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2635456576758946255, guid: d9af8515441e4db4288800cc332307af, type: 3}
+--- !u!1001 &1890621445
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -171.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 122
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &1906046787
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 65.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 132.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &1951435100
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 215.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -292.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &1951435101 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1951435100}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1970457550
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 135.79608
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -140.2688
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.91903514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000020086153
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.3941757
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000008614984
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 46.429
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &1971217805 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1412424988}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1992013961
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -98.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 77.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
 --- !u!1001 &2010030089
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -731,19 +3867,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d9af8515441e4db4288800cc332307af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 390.04883
+      value: 252
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d9af8515441e4db4288800cc332307af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.38
+      value: -0.1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d9af8515441e4db4288800cc332307af, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 390.3949
+      value: 321.7
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d9af8515441e4db4288800cc332307af, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.96082723
+      value: 0.38711414
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d9af8515441e4db4288800cc332307af, type: 3}
       propertyPath: m_LocalRotation.x
@@ -751,7 +3887,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d9af8515441e4db4288800cc332307af, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.27714807
+      value: -0.9220318
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d9af8515441e4db4288800cc332307af, type: 3}
       propertyPath: m_LocalRotation.z
@@ -763,7 +3899,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d9af8515441e4db4288800cc332307af, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 32.18
+      value: -134.45
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d9af8515441e4db4288800cc332307af, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -847,6 +3983,313 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 739636034}
   m_SourcePrefab: {fileID: 100100000, guid: d9af8515441e4db4288800cc332307af, type: 3}
+--- !u!1001 &2030336941
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.642
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -25.996643
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.899142
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000019651372
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.43765703
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.000000009565297
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -51.909
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &2030336942 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 2030336941}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2055656262
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 103.29993
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -72.414764
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9232813
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000020178952
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.38412458
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0000000083953084
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -45.179
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &2068954871
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -37.115265
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.41126
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 56.91162
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!1001 &2080117756
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1227657549}
+    m_Modifications:
+    - target: {fileID: 1197638070049770, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Name
+      value: Fish-Hook Kelp Bush_Radial (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 494.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2354.1848
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2004.2538
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -184.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 26.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000021855694
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135185819876985696, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+--- !u!4 &2080117757 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 2080117756}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2091642022 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4135714716858874, guid: 7e5e9076460bc114caddbbf89e9fec4c, type: 3}
+  m_PrefabInstance: {fileID: 1992013961}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -857,3 +4300,5 @@ SceneRoots:
   - {fileID: 975996462}
   - {fileID: 2010030089}
   - {fileID: 1097293686}
+  - {fileID: 1227657549}
+  - {fileID: 402620313}
