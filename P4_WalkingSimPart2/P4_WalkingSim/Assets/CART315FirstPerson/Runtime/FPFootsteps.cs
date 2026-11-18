@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 namespace Cart315.FirstPerson
 {
@@ -11,23 +12,56 @@ namespace Cart315.FirstPerson
         [Tooltip("Horizontal metres travelled between steps; sprinting produces faster steps.")]
         [SerializeField, Min(0.1f)] private float _stepDistance = 1.8f;
         [SerializeField, Range(0, 1)] private float _volume = 0.35f;
+        [SerializeField, Range(0.5f, 2f)] private float _normalPitch = 1.0f;
+        [SerializeField, Range(0.5f, 3f)] private float _sprintPitch = 1.4f;
 
         public event Action FootstepPlayed;
         private FPController _player;
-        private AudioSource _audioSource;
+        [SerializeField] private AudioSource _footstepSource;
         private float _distance;
         private int _lastClip = -1;
 
         private void Awake()
         {
             _player = GetComponent<FPController>();
-            _audioSource = GetComponent<AudioSource>();
-            _audioSource.playOnAwake = false;
-            _audioSource.loop = false;
+            
+            _footstepSource.playOnAwake = false;
+            _footstepSource.loop = true;
+            _footstepSource.volume = _volume; 
         }
 
         private void LateUpdate()
         {
+            if (!_player.isActiveAndEnabled || _sounds == null || _sounds.Length == 0 || _sounds[0] == null)
+            {
+                if (_footstepSource.isPlaying) _footstepSource.Stop();
+                return;
+            }
+
+            bool isHoldingShift = Keyboard.current != null && Keyboard.current.shiftKey.isPressed;
+            bool isHoldingW = Keyboard.current != null && Keyboard.current.wKey.isPressed;
+
+            if (isHoldingW)
+            {
+                _footstepSource.pitch = isHoldingShift ? _sprintPitch : _normalPitch;
+
+                if (!_footstepSource.isPlaying)
+                {
+                    _footstepSource.clip = _sounds[0];
+                    _footstepSource.volume = _volume;
+                    _footstepSource.Play();
+                    FootstepPlayed?.Invoke();
+                }
+            }
+            else
+            {
+                if (_footstepSource.isPlaying)
+                {
+                    _footstepSource.Stop();
+                }
+            }
+        
+            /*
             if (!_player.isActiveAndEnabled || !_player.IsGrounded || !_player.IsInputMoving)
             {
                 _distance = 0;
@@ -52,8 +86,17 @@ namespace Cart315.FirstPerson
             _audioSource.PlayOneShot(_sounds[selected], _volume);
             _lastClip = selected;
             FootstepPlayed?.Invoke();
+            */
         }
 
-        private void OnDisable() => _distance = 0;
+        private void OnDisable()
+        {
+            if (_footstepSource != null && _footstepSource.isPlaying)
+            {
+                _footstepSource.Stop();
+            }
+            // => _distance = 0;
+        }
+
     }
 }
