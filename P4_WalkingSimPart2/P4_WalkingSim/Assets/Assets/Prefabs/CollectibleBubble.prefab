@@ -126,4 +126,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BubblePickup
   popSound: {fileID: 8300000, guid: 248315d1fc86e844cbfacdd345b4af23, type: 3}
-  popVolume: 0.15
+  popVolume: 0.1
