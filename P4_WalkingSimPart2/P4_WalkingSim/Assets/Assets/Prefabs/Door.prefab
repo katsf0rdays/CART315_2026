@@ -474,6 +474,10 @@ MonoBehaviour:
   rightHinge: {fileID: 3185862234754699958}
   openAngle: 90
   swingSpeed: 0.25
+  doorOpenSound: {fileID: 8300000, guid: ece177c680356dd4ebad22ed169a6f90, type: 3}
+  openVolume: 0.1
+  doorCloseSound: {fileID: 8300000, guid: ece177c680356dd4ebad22ed169a6f90, type: 3}
+  closeVolume: 0.1
 --- !u!23 &-1359341951876068483
 MeshRenderer:
   m_ObjectHideFlags: 0

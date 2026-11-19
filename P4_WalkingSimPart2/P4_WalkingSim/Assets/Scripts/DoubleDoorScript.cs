@@ -1,5 +1,7 @@
 using UnityEngine;
 
+[RequireComponent(typeof(AudioSource))]
+
 public class DoubleDoorTrigger : MonoBehaviour
 {
     [Header("Door Hinges")]
@@ -10,6 +12,16 @@ public class DoubleDoorTrigger : MonoBehaviour
     public float openAngle = 90f;
     public float swingSpeed = 3f;
 
+    [Header("Audio")]
+    public AudioClip doorOpenSound;
+    [Range(0f, 1f)]
+    public float openVolume = 1f;
+    public AudioClip doorCloseSound;
+    [Range(0f, 1f)]
+    public float closeVolume = 1f;
+
+    private AudioSource audioSource;
+
     private Quaternion leftClosedRot;
     private Quaternion rightClosedRot;
     private Quaternion leftTargetRot;
@@ -18,6 +30,8 @@ public class DoubleDoorTrigger : MonoBehaviour
 
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
+        audioSource.playOnAwake = false;
         leftClosedRot = leftHinge.localRotation;
         rightClosedRot = rightHinge.localRotation;
         leftTargetRot = leftClosedRot;
@@ -32,10 +46,18 @@ public class DoubleDoorTrigger : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+
         if (other.CompareTag("Player"))
         {
             playersInZone++;
-            OpenDoors(other.transform.position);
+            if (playersInZone == 1)
+            {
+                OpenDoors(other.transform.position);
+                if (doorOpenSound != null)
+                {
+                    audioSource.PlayOneShot(doorOpenSound, openVolume);
+                }
+            }
         }
     }
 
@@ -49,6 +71,11 @@ public class DoubleDoorTrigger : MonoBehaviour
                 playersInZone = 0;
                 leftTargetRot = leftClosedRot;
                 rightTargetRot = rightClosedRot;
+
+                if (doorCloseSound != null)
+                {
+                    audioSource.PlayOneShot(doorCloseSound, closeVolume);
+                }
             }
         }
     }
